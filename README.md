@@ -15,9 +15,9 @@ I'm a frontend developer who spent 13 years at Squarespace in test automation an
 
 ## 🧰 What I work with
 
-**Comfortable:** JavaScript (ES6+), React, HTML, CSS, Git/GitHub, REST APIs, accessibility basics
-**Test automation background:** WebdriverIO, Appium, Cypress, Pact contract testing, Kotlin
-**Currently learning:** TypeScript, Next.js, React Testing Library, Playwright, CSS Grid
+- **Comfortable:** JavaScript (ES6+), React, HTML, CSS, Git/GitHub, REST APIs, accessibility basics
+- **Test automation background:** WebdriverIO, Appium, Cypress, Pact contract testing, Kotlin
+- **Currently learning:** TypeScript, Next.js, React Testing Library, Playwright, CSS Grid
 
 ## ♿ Accessibility
 
